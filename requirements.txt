@@ -1,0 +1,17 @@
+yt-dlp 
+PyPDF2  
+requests 
+beautifulsoup4
+boto3>=1.28,<1.35
+requests==2.31.0
+python-dotenv==1.0.0
+fastapi==0.109.2
+uvicorn==0.23.2
+flask==3.1.2
+docker==6.1.3
+ffmpeg
+langchain
+langsmith
+google-api-python-client
+datetime
+beautifulsoup4
